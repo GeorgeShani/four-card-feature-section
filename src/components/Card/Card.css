@@ -26,7 +26,7 @@
     color: #4D4F62;
     opacity: 0.5;
     text-align: left;
-    margin: 0.8rem 0;
+    margin: 0.2rem 0;
 }
 
 .theme-image {
@@ -38,6 +38,10 @@
     .card {
         width: 35rem;
         min-height: 25rem;
+    }
+
+    .card-descr {
+        margin: 0.8rem 0;
     }
 
     .card:first-child, .card:last-child {
