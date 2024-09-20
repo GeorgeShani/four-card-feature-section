@@ -1,0 +1,34 @@
+[
+    {
+        "topicTitle": "Supervisor",
+        "topicDescription": "Monitors activity to identify project roadblocks",
+        "themeImageUrl": "Supervisor.svg",
+        "themeStyle": {
+            "borderColor": "#44D3D2"
+        }
+    },
+    {
+        "topicTitle": "Team Builder",
+        "topicDescription": "Scans our talent network to create the optimal team for your project",
+        "themeImageUrl": "Team Builder.svg",
+        "themeStyle": {
+            "borderColor": "#EA5454"
+        }
+    },
+    {
+        "topicTitle": "Karma",
+        "topicDescription": "Regularly evaluates our talent to ensure quality",
+        "themeImageUrl": "Karma.svg",
+        "themeStyle": {
+            "borderColor": "#FCAE4A"
+        }
+    },
+    {
+        "topicTitle": "Calculator",
+        "topicDescription": "Uses data from past projects to provide better delivery estimates",
+        "themeImageUrl": "Calculator.svg",
+        "themeStyle": {
+            "borderColor": "#549EF2"
+        }
+    }
+]
