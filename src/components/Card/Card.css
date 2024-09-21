@@ -3,7 +3,6 @@
     border-top: 6px solid;
     border-radius: 8px;
     padding: 2.8rem;
-    width: 31.2rem;
     min-height: 22.2rem;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
@@ -32,6 +31,12 @@
 .theme-image {
     display: block;
     margin-left: auto;
+}
+
+@media screen and (min-width: 24rem) {
+    .card {
+        width: 31.2rem;
+    }
 }
 
 @media screen and (min-width: 72rem) {
